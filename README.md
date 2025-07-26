@@ -13,7 +13,7 @@ This project demonstrates a real-time **fire detection system** using a **YOLOv1
 -  Easy to run and modify
 -  Trained using Roboflow dataset
 
----
+![Fire Detection Example](https://drive.google.com/uc?export=view&id=1OdObS14EBrnwGDj5s4oP9bS1XxL8EyS0)
 
 ##  Requirements
 
@@ -22,4 +22,4 @@ Install the required packages using pip:
 ```bash
 pip install ultralytics opencv-python pyttsx3
 
-![Fire Detection Example](https://drive.google.com/uc?export=view&id=1OdObS14EBrnwGDj5s4oP9bS1XxL8EyS0)
+
