@@ -13,8 +13,9 @@ This project demonstrates a real-time **fire detection system** using a **YOLOv1
 -  Easy to run and modify
 -  Trained using Roboflow dataset
 
-![Fire Detection Example](https://drive.google.com/uc?export=view&id=1OdObS14EBrnwGDj5s4oP9bS1XxL8EyS0)
-
+![Fire Detection Example](https://drive.google.com/file/d/1pEpgoghcOqDRXEpJbEqD9oO8N97-7mN9/view?usp=sharing)
+![Fire Detection Training results](https://drive.google.com/file/d/1OYGAm8GfMqRBro-lN4l20LW2ErrY4AJj/view?usp=sharing)
+![Fire Detection Training results_Realtime_Demo](https://drive.google.com/file/d/10Ive_ozrIYolFFpqQzscdIFf_y5WJgU5/view?usp=sharing)
 ##  Requirements
 
 Install the required packages using pip:
